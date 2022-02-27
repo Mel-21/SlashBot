@@ -13,7 +13,6 @@ npm i discord.js glob
 > - [Respondendo aos Slash Commands](https://discordjs.guide/interactions/replying-to-slash-commands.html#receiving-interactions)
 > - *(sério, quase tudo que você precisa saber sobre Discord.js está nas docs do próprio Discord,js, óbviamente 😢)*
 
-
 ## **✦﹒﹒ Base simples de Slash Commands *!!***
 ```js
 const Discord = require("discord.js")
