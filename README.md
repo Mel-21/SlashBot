@@ -11,7 +11,7 @@ npm i discord.js glob util
 > - [Discord.js Guilde](https://discordjs.guide/#before-you-begin)
 > - [Sobre Slash Commands](https://discordjs.guide/interactions/registering-slash-commands.html#options)
 > - [+ Sobre o Slash Commands](https://discordjs.guide/interactions/replying-to-slash-commands.html#receiving-interactions)
-> - *(sério, quase tudo que você precisa saber sobre Discord.js está nas docs do próprio Discord,js, óbviamente 😢)*
+> - *(sério, quase tudo que você precisa saber sobre Discord.js está nas docs do próprio Discord.js, óbviamente 😢)*
 
 
 ## **✦﹒﹒ Base simples de Slash Commands *!!***
