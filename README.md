@@ -25,7 +25,7 @@ module.exports = {
         name: 'nome', // Nome da opção
         type: 'STRING', // Pode utilizar USER, CHANNEL, MENTION...
         description: 'Descrição', // Descrição da opcão
-        required: true, // Isso torna a opção requirida caso não queira só alterar para false
+        required: true, // Required torna a opção obrigatória para preenchimento. Caso não queira é só alterar para false
     }],
 
     run: async (client, interaction) => {
