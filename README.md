@@ -38,5 +38,3 @@ module.exports = {
     }
 }
 ```
-
-![mao](https://i.pinimg.com/originals/59/74/26/597426a9e95f7767db7a76b57da0e774.gif)
